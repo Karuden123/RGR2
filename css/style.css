@@ -26,7 +26,7 @@ body {
 }
 
 .main__content {
-  background-image: url("image/main/image 1.svg");
+  background-image: url('image/main/image 1.svg');
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 16px;
@@ -428,7 +428,7 @@ body {
 
 
 .help1 {
-  background: url(image/main/help/help1.svg);
+  background: url('image/main/help/help1.svg');
   width: 30%;
   height: 168px;
   /* padding: 62px 34px; */
@@ -436,7 +436,7 @@ body {
 }
 
 .help2 {
-  background: url(image/main/help/help2.svg);
+  background: url('image/main/help/help2.svg');
   width: 30%;
   height: 168px;
   /* padding: 62px 12px; */
@@ -445,7 +445,7 @@ body {
 }
 
 .help3 {
-  background: url(image/main/help/help3.svg);
+  background: url('image/main/help/help3.svg');
   width: 30%;
   height: 168px;
   /* padding: 62px 26px; */
